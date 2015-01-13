@@ -18,7 +18,10 @@
     "dependency",
     "injector"
   ],
-  "author": "Aydin ULFER",
+  "author": {
+    "name": "Aydin ULFER",
+    "email": "info@devmach.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devmach/better-di/issues"
