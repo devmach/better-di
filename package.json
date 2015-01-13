@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "better-di",
+  "version": "0.0.1",
+  "description": "Better-DI is a dependency injector with automatic dependency resolving",
+  "main": "better-di.js",
+  "dependencies": {
+    "toposort": "^0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodeunit tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/devmach/better-di"
+  },
+  "keywords": [
+    "dependency",
+    "injector"
+  ],
+  "author": "Aydin ULFER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmach/better-di/issues"
+  },
+  "homepage": "https://github.com/devmach/better-di"
+}
