@@ -4,7 +4,7 @@
   "description": "Better-DI is a dependency injector with automatic dependency resolving",
   "main": "better-di.js",
   "dependencies": {
-    "toposort": "^0.2.10"
+    "toposort": "0.2.10"
   },
   "devDependencies": {},
   "scripts": {
