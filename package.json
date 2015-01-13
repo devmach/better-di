@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "better-di",
   "version": "0.0.1",
   "description": "Better-DI is a dependency injector with automatic dependency resolving",
